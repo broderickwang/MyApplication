@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.hannahxian.myapplication.Main2Activity">
+    <Button
+        android:id="@+id/myBorrow"
+        android:text="我的借款"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/remit"
+        android:text="汇款结果"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/remit2"
+        android:text="汇款结果2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/repay"
+        android:text="还款计划"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/repay2"
+        android:text="还款计划2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/recevie"
+        android:text="应收账款明细"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/inaudit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="审核中贷款详情"/>
+    <Button
+        android:id="@+id/auditing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="审核中"/>
+    <Button
+        android:id="@+id/passed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="已通过"/>
+    <Button
+        android:id="@+id/lease_info_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="租赁设备明细"/>
+    <Button
+        android:id="@+id/huank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我的还款-全部还款"/>
+    <Button
+        android:id="@+id/pipeishenqing"
+        android:text="汇款匹配申请"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/zhaiquan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="我的债权-投资记录"/>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#263fe2</color>
+    <color name="colorAccent">#f90000</color>
+    <color name="BLUE">#3F66F6</color>
+    <color name="BLUE2">#5275F7</color>
+    <color name="BLUE3">#6b88f2</color>
+    <color name="red">#f90000</color>
+    <color name="RECEVI_BG">#525b7b</color>
+    <color name="text_color_red">#FA3200</color>
+</resources>
